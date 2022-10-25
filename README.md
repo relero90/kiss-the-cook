@@ -47,4 +47,4 @@ A full stack recipe application for the blog-averse home cook. Featuring a MySQL
 
 ## Deployed Application
 
-[Kiss the Cook Live Link](https://kiss-the-cook.herokuapp.com/)
+[Kiss the Cook Live Link](https://kissthecook.herokuapp.com/)
