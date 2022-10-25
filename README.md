@@ -43,7 +43,7 @@ A full stack recipe application for the blog-averse home cook. Featuring a MySQL
 
 ## Images
 
-![Screenshot](../Kiss_The_Chef/public/images/Screenshot.JPG)
+![A screenshot of the Kiss The Cook app showing the main All Recipes view with recipe cards in the website body and a navigation bar on the left aside](./public/images/screenshot.jpg)
 
 ## Deployed Application
 
